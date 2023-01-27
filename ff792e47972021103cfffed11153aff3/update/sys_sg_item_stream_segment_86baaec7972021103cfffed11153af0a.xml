@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <empty_state/>
+        <interleave_order_direction>asc</interleave_order_direction>
+        <max_offline_rows>1000</max_offline_rows>
+        <name>Leave Request Item Stream Segment</name>
+        <order>0</order>
+        <screen display_value="Leave Requests">4abaaec7972021103cfffed11153af08</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-27 04:44:25</sys_created_on>
+        <sys_id>86baaec7972021103cfffed11153af0a</sys_id>
+        <sys_name>Leave Request Item Stream Segment</sys_name>
+        <sys_package display_value="Leave Management System" source="x_956260_lms">ff792e47972021103cfffed11153aff3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">ff792e47972021103cfffed11153aff3</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_86baaec7972021103cfffed11153af0a</sys_update_name>
+    </sys_sg_item_stream_segment>
+</record_update>
