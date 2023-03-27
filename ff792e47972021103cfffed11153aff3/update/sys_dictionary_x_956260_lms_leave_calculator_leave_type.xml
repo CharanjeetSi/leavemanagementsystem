@@ -11,12 +11,12 @@
 
 })(current);]]></calculation>
         <choice>1</choice>
-        <choice_field/>
-        <choice_table/>
+        <choice_field>leave_type</choice_field>
+        <choice_table>x_956260_lms_leave_request</choice_table>
         <column_label>Leave Type</column_label>
         <comments/>
         <create_roles/>
-        <default_value/>
+        <default_value>cl</default_value>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
