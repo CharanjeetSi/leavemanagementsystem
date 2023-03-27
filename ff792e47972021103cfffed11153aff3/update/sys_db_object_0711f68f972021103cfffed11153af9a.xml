@@ -7,12 +7,12 @@
         <client_scripts_access>false</client_scripts_access>
         <configuration_access>false</configuration_access>
         <create_access>false</create_access>
-        <create_access_controls>false</create_access_controls>
+        <create_access_controls>true</create_access_controls>
         <delete_access>false</delete_access>
         <is_extendable>false</is_extendable>
-        <label>Leave Request</label>
+        <label>Leave Bucket</label>
         <live_feed_enabled>false</live_feed_enabled>
-        <name>x_956260_lms_leave_request</name>
+        <name>x_956260_lms_leave_bucket</name>
         <number_ref/>
         <provider_class/>
         <read_access>false</read_access>
@@ -20,15 +20,15 @@
         <super_class/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-01-27 04:42:08</sys_created_on>
-        <sys_id>6c3a66c7972021103cfffed11153afd7</sys_id>
-        <sys_name>Leave Request</sys_name>
+        <sys_created_on>2023-01-27 05:15:00</sys_created_on>
+        <sys_id>0711f68f972021103cfffed11153af9a</sys_id>
+        <sys_name>Leave Bucket</sys_name>
         <sys_package display_value="Leave Management System" source="x_956260_lms">ff792e47972021103cfffed11153aff3</sys_package>
         <sys_policy/>
         <sys_scope display_value="Leave Management System">ff792e47972021103cfffed11153aff3</sys_scope>
-        <sys_update_name>sys_db_object_6c3a66c7972021103cfffed11153afd7</sys_update_name>
+        <sys_update_name>sys_db_object_0711f68f972021103cfffed11153af9a</sys_update_name>
         <update_access>false</update_access>
-        <user_role/>
+        <user_role display_value="x_956260_lms.leave_bucket_user" name="x_956260_lms.leave_bucket_user">fdb1f68f972021103cfffed11153afda</user_role>
         <ws_access>false</ws_access>
     </sys_db_object>
 </record_update>
